@@ -1,4 +1,4 @@
-# Mininet-SDN-Controller
+# Mininet Network Analysis
 
 This project utilizes the Mininet environment to analyze a network and find the minimum delay between two nodes. It provides a Python program that creates a custom network topology using Mininet, calculates the minimum delay between specified nodes.
 
