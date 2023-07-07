@@ -1,6 +1,6 @@
 # Mininet Network Analysis
 
-This project utilizes the Mininet environment to analyze a network and find the minimum delay between two nodes. It provides a Python program that creates a custom network topology using Mininet, calculates the minimum delay between specified nodes.
+This project utilizes the Mininet environment to analyze a network and find the minimum delay between two nodes. It provides a Python program that creates a custom network topology using Mininet, and calculates the minimum delay between specified nodes.
 
 ## Introduction
 
@@ -41,5 +41,3 @@ Feel free to explore and modify the code to suit your specific network analysis 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-Please note that this is just an example README file. You can customize it further to fit the specific details and requirements of your project.
