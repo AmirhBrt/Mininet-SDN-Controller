@@ -26,7 +26,7 @@ To use this project:
 
 1. Install Mininet on your system. Refer to the Mininet documentation for installation instructions.
 
-2. Run the Python program `mininet_network_analysis.py`.
+2. Run the Python program `sdn_controller.py` with root priviledge.
 
 3. The program will create a custom network topology using Mininet, calculate the minimum delay between specified nodes, and print the result.
 
